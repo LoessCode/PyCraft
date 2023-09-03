@@ -1,0 +1,7 @@
+{
+    "0.7": "Env.Rock",
+    "0.9": "Env.Gravel",
+    "1.2": "Env.Mud",
+    "1.7": "Env.Sand",
+    "2": "Env.Water"
+}

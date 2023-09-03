@@ -1,0 +1,27 @@
+{
+    "Env.Mud":{
+        "path": "Data/Tile/Env/Mud.json",
+        "name": "Mud",
+        "tex": "Data/Assets/Tile/Env/Mud.png"
+    },
+    "Env.Rock":{
+        "path": "Data/Tile/Env/Mud.json",
+        "name": "Rock",
+        "tex": "Data/Assets/Tile/Env/Rock.png"
+    },
+    "Env.Sand":{
+        "path": "Data/Tile/Env/Mud.json",
+        "name": "Sand",
+        "tex": "Data/Assets/Tile/Env/Sand.png"
+    },
+    "Env.Gravel":{
+        "path": "Data/Tile/Env/Mud.json",
+        "name": "Gravel",
+        "tex": "Data/Assets/Tile/Env/Gravel.png"
+    },
+    "Env.Water":{
+        "path": "Data/Tile/Env/Mud.json",
+        "name": "Water",
+        "tex": "Data/Assets/Tile/Env/Water.png"
+    }
+}
